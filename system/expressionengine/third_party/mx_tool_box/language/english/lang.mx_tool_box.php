@@ -14,7 +14,7 @@ $lang = array(
 ,'export_block'=>'Export'
 ,'recheck'=>'Recheck'
 ,'d_names'=>'Duplicated names'
-,'i_complite'=>'Import Comlite'
+,'i_complite'=>'Import Complete'
 ,'field_order'=>'Change Field Order'
 
 ,'field_group'=>'Field Group'
